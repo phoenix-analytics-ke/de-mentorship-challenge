@@ -1,7 +1,7 @@
 # Data Engineering Mentorship Challenge
 
-An elementary data engineering challenge to evalute potential data engineering mentees for the 2nd cohort 
-of the Phoenix Mentorship Program
+An elementary data engineering challenge to evalute potential data engineering mentees for the Q2-2025 Mentorship cohort 
+of the Phoenix Mentorship Program.
 
 ### Scenario
 In this challenge you are to ingest data from a remote postgres database, the credentials will be provided in challenge folder
